@@ -1,0 +1,20 @@
+{
+  "Confirm": {
+    "description": "Auto imported from components/Confirm.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Snackbar": {
+    "description": "Auto imported from components/Snackbar.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "CardMenu": {
+    "description": "Auto imported from components/Card/CardMenu.vue"
+  }
+}

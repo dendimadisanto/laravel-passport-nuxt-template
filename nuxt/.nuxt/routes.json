@@ -1,0 +1,26 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "D:\\\\myProject\\\\imsconnect\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "Login",
+    "path": "/Login",
+    "component": "D:\\\\myProject\\\\imsconnect\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login"
+  },
+  {
+    "name": "tes",
+    "path": "/tes",
+    "component": "D:\\\\myProject\\\\imsconnect\\\\pages\\\\tes.vue",
+    "chunkName": "pages/tes"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\myProject\\\\imsconnect\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
